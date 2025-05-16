@@ -19,3 +19,20 @@ Tech Stack
 - HTML5
 - CSS3
 - JavaScript
+  
+BMI Formula
+𝐵
+𝑀
+𝐼
+=
+weight (lbs)
+×
+703
+height (in)
+2
+BMI= 
+height (in) 
+2
+ 
+weight (lbs)×703
+​
