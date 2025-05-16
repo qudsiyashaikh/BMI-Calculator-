@@ -4,7 +4,7 @@ This is a simple BMI (Body Mass Index) Calculator built using React.js. The appl
 
 ## Demo
 
-![Screenshot BMI.png] (https://github.com/qudsiyashaikh/BMI-Calculator-/blob/main/Screenshot%20BMI.png?raw=true)
+# Output ![Screenshot BMI](https://github.com/user-attachments/assets/5b72f25d-3a69-4759-b180-59e485e3a402)
 
 Features
 
